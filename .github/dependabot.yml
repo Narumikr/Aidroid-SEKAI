@@ -4,6 +4,7 @@ updates:
   - package-ecosystem: 'npm'
     directories:
       - '/frontend'
+      - '/shared/api'
     schedule:
       interval: 'weekly'
   - package-ecosystem: 'pip'
